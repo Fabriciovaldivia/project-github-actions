@@ -1,0 +1,11 @@
+{
+  "name": "app-node-cicd",
+  "version": "1.0.0",
+  "description": "Aplicacion Node.js con Docker y GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
